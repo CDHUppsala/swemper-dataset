@@ -1,5 +1,5 @@
 
-```yaml
+---
 swemper_filename: allergia
 journal_titles:
 - [Allergia, 1957]
@@ -20,7 +20,7 @@ sources:
 - https://allergia.se/  
 - https://astmaoallergiforbundet.se/tidningen-allergia-i-en-ny-skrud/  
 - https://sv.wikipedia.org/wiki/Astma-_och_Allergif%C3%B6rbundet
-```
+---
 ## Allergia
 
 Allergia utgavs av det nuvarande Astma- och allergiförbundet mellan åren 1957 och 1990. 
