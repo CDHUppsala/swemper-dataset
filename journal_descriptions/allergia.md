@@ -21,7 +21,7 @@ sources:
 - https://astmaoallergiforbundet.se/tidningen-allergia-i-en-ny-skrud/  
 - https://sv.wikipedia.org/wiki/Astma-_och_Allergif%C3%B6rbundet
 ```
-Allergia
+## Allergia
 
 Allergia utgavs av det nuvarande Astma- och allergiförbundet mellan åren 1957 och 1990. 
 I det första numret som kom ut 1957 beskrivs tidskriftens huvuduppgift som att vara ett språkrör för det centrala riksförbundet och dess lokalföreningar. Inte minst skulle den lyfta frågor av särskilt intresse för personer med astma och allergier samt rapportera löpande om verksamheten inom de olika lokalföreningar (Allergia, 1957, nr. 1, 3).
