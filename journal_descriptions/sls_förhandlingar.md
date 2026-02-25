@@ -1,0 +1,21 @@
+---
+swemper_filename: sls_förhandlingar
+journal_titles:
+- [Förhandlingar vid Svenska läkaresällskapets sammankomster, 1841]
+- [Svenska läkaresällskapets förhandlingar, 1914]
+associated_organisations:
+- Svenska läkaresällskapet
+year_range_included_in_swemper: [1841-1911, 1913-1938] 
+full_years_missing_in_swemper: [1912]
+digitised_by:
+- UUB
+libris_id:
+- 3621433
+- 830002 
+alvin_id:
+- 560549
+- 561676
+sources: 
+- https://libris.kb.se/bib/3621433 
+- https://libris.kb.se/bib/830002 
+---
