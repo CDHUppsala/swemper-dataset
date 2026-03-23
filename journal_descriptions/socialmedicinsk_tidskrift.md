@@ -18,3 +18,7 @@ sources:
 - https://libris.kb.se/bib/8258350
 - https://publicera.kb.se/smt/about
 ---
+
+# Socialmedicinsk tidskrift
+
+_Socialmedicinsk tidskrift_ är ett flervetenskapligt forum för diskussion och debatt om socialmedicinska och folkhälsorelaterade frågor. Sedan starten 1924 har tidskriften inkluderat bidrag från många yrkesgrupper, bland annat hälso- och sjukvårdspersonal, socialarbetare, tjänstemän och andra samhällsaktörer med intresse för socialmedicin. Tidskriften publicerar vetenskapliga artiklar, debattinlägg, referat, krönikor, bokrecensioner och presentationer av nya avhandlingar. Syftet med innehållet är att möjliggöra ett praktiskt och teoretiskt kunskapsutbyte mellan olika professioner och att erbjuda lättillgängliga översikter över den socialmedicinska utvecklingen i Sverige och internationellt. 
