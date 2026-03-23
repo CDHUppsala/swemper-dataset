@@ -18,3 +18,7 @@ alvin_id:
 sources: 
 - https://libris.kb.se/bib/2412246 
 ---
+
+# Samlingar i blandade ämnen för läkare-vetenskapen och naturforskningen
+
+_Samlingar i blandade ämnen för läkare-vetenskapen och naturforskningen_ gavs ut åren 1810–1812. Tidskriften kan ses som en fortsättning på _Vetenskaps-Handlingar för Läkare och Fältskärer_, med samma redaktör, Sven Hedin. På boktryckaren Nordströms önskan ändrades titeln och innehållet breddades för att omfatta fler naturvetenskapliga texter riktade till en allmän publik. Utöver dessa bidrag fortsatte Hedin publicera porträtt och biografier av framstående svenska läkare.
