@@ -15,3 +15,7 @@ alvin_id:
 sources: 
 - https://libris.kb.se/bib/4110803 
 ---
+
+# Svenska läkaresällskapets handlingar
+
+_Svenska läkaresällskapets handlingar_ gavs ut oregelbundet mellan 1813 och 1833. Serien växte fram ur sällskapets behov att samla och sprida viktiga medicinska publikationer och fynd som hade diskuterats vid dess sammankomster. Handlingarna innehöll utvalda originalarbeten, kliniska observationer, rapporter från sjukhus och ämbetsläkare samt recensioner och utdrag ur internationell medicinsk litteratur. 
