@@ -19,3 +19,9 @@ sources:
 - https://libris.kb.se/bib/3621433 
 - https://libris.kb.se/bib/830002 
 ---
+
+_Förhandlingar vid Svenska läkaresällskapets sammankomster_ gavs ut mellan 1841 och 1938 av _Svenska läkaresällskapet_. I början ingick förhandlingar varje månad i _Hygiea_. Från och med 1914 utkom förhandlingarna som en särskild publikation under namnet _Svenska läkaresällskapets förhandlingar_. 
+
+Såsom de tidigare utgivna årsberättelser ger förhandlingarna en detaljerad översikt över sällskapets verksamhet och ledamöter samt de olika föredrag, redogörelser och diskussioner som tagit plats under sällskapets sammankomster. 
+
+Förhandlingarna digitaliserades av UUB. 
