@@ -1,9 +1,9 @@
 ---
 swemper_filename: lakare_pharmaceuter
 journal_titles:
-- [Tidskrift för läkare och pharmaceuter, 1932]
+- [Tidskrift för läkare och pharmaceuter, 1832]
 associated_organisations:
-year_range_included_in_swemper: [1832-1938] 
+year_range_included_in_swemper: [1832-1838] 
 full_years_missing_in_swemper:
 digitised_by: 
 - UUB
