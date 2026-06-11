@@ -71,25 +71,30 @@ The following periodicals are currently included:
 The general structure for a periodical (e.g., `hygiea`) is as follows:
 
 ```
-[periodical_name]/
-├── altoxml/             # AltoXML files (from library sources like UUB)
-│   └── [year]/          # Organized by year
-├── images/              # Scanned images
-│   ├── avif/            # Compressed AVIF images (for deployment)
-│   └── jpg/             # Original scanned JPG images
-│       └── [year]/      # Organized by year
-├── metadata/            # Metadata files
-│   └── v2/              # Version 2 of the pipeline metadata
-│       └── [year]/      # Organized by year
-├── texts/               # OCR text outputs
-│   ├── ra-ocr/          # OCR from Riksarkivet
-│   ├── tesseract-v1/    # In-house Tesseract v1 OCR output
-│   │   └── [year]/      # Organized by year
-│   └── uub-per-year/    # OCR from Uppsala University Library (UUB)
-├── xml/                 # Standard XML files (from library sources)
-│   └── [year]/          # Organized by year
-├── outputs/             # Pipeline outputs
-└── pdf/                 # PDF files
+./swemper/curated/[periodical_name]/
+├── altoxml/
+│   └── [year]/             # Layout-heavy XML from library sources
+├── images/
+│   ├── avif/
+│   │   └── [year]/         # Compressed delivery images
+│   └── jpg/
+│       └── [year]/         # Original source master scans
+├── metadata/
+│   ├── v1/
+│   │   └── [year]/         # Legacy pipeline metadata (preserved)
+│   └── v2/
+│       └── [year]/         # Active YAML pipeline metadata 
+├── outputs/
+│   └── [year]/             # Pipeline JSON bounding box extractions
+├── pdf/                    # FLAT: Archive-only full volume PDFs from UUB
+├── texts/
+│   ├── ra-ocr/
+│   │   └── [year]/         # Page-level OCR delivered by Riksarkivet
+│   ├── tesseract-v1/
+│   │   └── [year]/         # In-house page-level OCR pipeline 
+│   └── uub-per-year/       # Concatenated full-volume text from UUB
+└── xml/
+    └── [year]/             # Standard structural XML from libraries
 ```
 
 ## Filename Conventions
