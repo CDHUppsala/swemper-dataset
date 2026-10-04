@@ -25,7 +25,7 @@ sources:
 
 Medlemstidningen _Allergia_ utgavs av _Riksförbundet mot allergi och andra allergiska sjukdomar_ med start 1957 (och utges fortsatt idag löpande av _Astma- och allergiförbundet_). I det första numret (nr. 1, 1957) beskrevs tidskriftens huvuduppgift som att vara språkrör för det centrala riksförbundet och dess lokalföreningar. Man betonade också att publikationen hade en bredare roll att spelade, utöver innehåll av "speciellt intresse för astmatiker och allergiskt sjuka". Inte minst skulle den rapportera löpande om verksamheten inom förbundets olika lokalföreningar (_Allergia_, 1957, nr. 1, 3).
 
-_Allergia_ innehåller redaktionellt material som rör patientorganisationens verksamhet, utbyte av nyheter och information om aktiviteter som avr relevant frö målgruppen. I tidskriften publicerades även reklam för läkemedel, och en rad kommersiella produkter från kosttillskott, allergivänliga tvättmedel till bilar, madrasser och kaffe.
+_Allergia_ innehåller redaktionellt material som rör patientorganisationens verksamhet, utbyte av nyheter och information om aktiviteter som var relevant för målgruppen. I tidskriften publicerades även reklam för läkemedel, och en rad kommersiella produkter från kosttillskott, allergivänliga tvättmedel till bilar, madrasser och kaffe.
 
 _Riksförbundet mot allergi och andra allergiska sjukdomar_ grundades 1956, ett år innan det första numret av _Allergia_ publicerades. Förbundet var tänkt att fungera som paraplyorganisation för lokala föreningar och hjälpa dem i arbetet för att främja hälso- och sjukvård för allergiker. Ett annat viktigt mål för förbundet var att stödja forskning kring astma och allergi genom att samla in pengar, bedriva lobbyverksamhet, och genomföra informationskampanjer.
 

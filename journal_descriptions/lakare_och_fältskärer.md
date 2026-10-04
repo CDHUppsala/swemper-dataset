@@ -15,9 +15,9 @@ sources:
 - https://libris.kb.se/bib/2412887 
 ---
 
-# Vetenskaps-handlingar för Läkare och fältskärer
+# Vetenskaps-handlingar för läkare och fältskärer
 
-Tidskriften _Vetenskaps-handlingar för Läkare och fältskärer_ gavs ut mellan åren 1793-1806 och har som syfte att sprida kunskap om det medicinska fältet. Redaktionen påpekar att tidningen fyller ett tydligt behov – det finns inte så mycket medicinsk litteratur på svenska, och det som finns är för dyrt för studenter och unga att tillhandahålla. Samtidigt beklagar sig redaktören över det faktum att svenska som vetenskapligt språk inte är etablerat, utan att vetenskapshandlingar istället förväntas skrivas på latin, och att samtliga läkare därmed också måste slösa sin tid på att lära sig allehanda språk.
+_Vetenskaps-handlingar för läkare och fältskärer_ utgavs mellan åren 1793-1806 och hade som syfte att sprida kunskap om det medicinska fältet. Redaktören, Sven Hedin, påpekade att tidningen fyller ett tydligt behov – det finns inte så mycket medicinsk litteratur på svenska, och det som finns är för dyrt för studenter och unga att tillhandahålla. Samtidigt beklagar sig redaktören över det faktum att svenska som vetenskapligt språk inte är etablerat, utan att vetenskapshandlingar istället förväntas skrivas på latin, och att samtliga läkare därmed också måste slösa sin tid på att lära sig allehanda språk.
 
 I tidskriften, som främst riktar sig till läkare eller läkarstudenter men även läkarintresserade, finns observationer över sjuka och sjukdomar, avhandlingar om sjukdomar och sjukdomstillstånd, underrättelser hörande till lärdomshistorien samt en biografi med porträtt. 
 

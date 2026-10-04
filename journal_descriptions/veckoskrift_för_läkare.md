@@ -18,9 +18,9 @@ sources:
 - https://libris.kb.se/bib/1691936
 ---
 
-# Veckoskrift för läkaren och naturforskaren
+# Veckoskrift för läkare och naturforskare
 
-_Veckoskrift för läkaren och naturforskaren_ utkom veckovis mellan åren 1781-1807. Syftet bakom tidskriften var dels att ge information om utländska fynd och gärningar inom läkekonsten, innan dess att texterna i sin helhet har kommit till Sverige. Samt att sprida svenska läkares och naturforskares texter och avhandlingar. Skriften poängterar också att den inte enbart är riktad till läkare och naturforskare utan hoppas att andra “upplysta” medborgare kommer att finna den intressant, välkomnande och nyttig.
+_Veckoskrift för läkare och naturforskare_ utkom veckovis mellan åren 1781–1807. Syftet bakom tidskriften var dels att ge information om utländska framsteg och gärningar inom läkekonsten, innan dess att texterna i sin helhet har kommit till Sverige. Samt att sprida svenska läkares och naturforskares texter och avhandlingar. Skriften poängterar också att den inte enbart är riktad till läkare och naturforskare utan hoppas att andra “upplysta” medborgare kommer att finna den intressant, välkomnande och nyttig.
 
 Tidskriftens upplägg består av avhandlingar, kortare artiklar och längre utdrag om patienter och sjukdomsfall. I varje nummer presenteras också veckans väderleksrapport. Majoriteten av texterna berör sjukdomsfall eller patienthistorier och hur man har botat dem, samt nya rön om hur sjukdomar bör hanteras och behandlas. Den medicinska aspekten har fått ett stort fokus i tidskriften. 
 
